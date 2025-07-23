@@ -17,11 +17,12 @@ The Sudoku Solver is a command-line application designed to efficiently solve st
 Python 3.13.5
 
 ## 🚀 How to Run
-Clone the repository:
+1. Clone the repository:
 
-git clone https://github.com/YourUsername/YourSudokuSolverRepo.git
-cd YourSudokuSolverRepo
-
+_git clone https://github.com/jennjest/SudokuSolver_Backtracking.git
+_
+_cd SudokuSolver_Backtracking
+_
 
 (Replace YourUsername/YourSudokuSolverRepo with your actual GitHub path.)
 
