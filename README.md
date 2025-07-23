@@ -1,7 +1,7 @@
-Sudoku Solver
+# Sudoku Solver
 This repository contains a Python-based Sudoku solver that utilizes the powerful backtracking algorithm to find solutions for any valid Sudoku puzzle.
 
-🌟 Overview
+## 🌟 Overview
 The Sudoku Solver is a command-line application designed to efficiently solve standard 9x9 Sudoku puzzles. It takes an incomplete Sudoku grid as input and outputs the complete, solved grid. This project serves as a practical demonstration of the backtracking algorithm, a fundamental technique in computer science for solving problems recursively by trying to build a solution incrementally and removing those solutions that fail to satisfy the constraints of the problem.
 
 ✨ Features
