@@ -19,10 +19,9 @@ Python 3.13.5
 ## 🚀 How to Run
 1. Clone the repository:
 
-_git clone https://github.com/jennjest/SudokuSolver_Backtracking.git
-_
-_cd SudokuSolver_Backtracking
-_
+git clone https://github.com/jennjest/SudokuSolver_Backtracking.git
+
+cd SudokuSolver_Backtracking
 
 (Replace YourUsername/YourSudokuSolverRepo with your actual GitHub path.)
 
