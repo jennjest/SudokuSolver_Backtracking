@@ -25,7 +25,7 @@ Python 3.13.5
    
 2. **Open the Python file**:
 
-   Locate the main Python script (e.g., sudoku_backtracking.py or similar) in the cloned directory.
+   Locate the main Python script (sudoku_backtracking.py) in the cloned directory.
 
 3. **Modify the puzzle (optional)**:
 
