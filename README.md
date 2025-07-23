@@ -4,7 +4,7 @@ This repository contains a Python-based Sudoku solver that utilizes the powerful
 ## 🌟 Overview
 The Sudoku Solver is a command-line application designed to efficiently solve standard 9x9 Sudoku puzzles. It takes an incomplete Sudoku grid as input and outputs the complete, solved grid. This project serves as a practical demonstration of the backtracking algorithm, a fundamental technique in computer science for solving problems recursively by trying to build a solution incrementally and removing those solutions that fail to satisfy the constraints of the problem.
 
-✨ Features
+##✨ Features
 Efficient Backtracking Algorithm: Implements a robust backtracking algorithm to explore possible solutions.
 
 Input Flexibility: Accepts Sudoku puzzles as a 2D list (or similar structure) in Python.
@@ -13,10 +13,10 @@ Clear Output: Prints the solved Sudoku grid in a readable format.
 
 Constraint Checking: Includes functions to check if a number is valid in a given row, column, or 3x3 subgrid.
 
-🛠️ Technologies Used
+##🛠️ Technologies Used
 Python 3.13.5
 
-🚀 How to Run
+##🚀 How to Run
 Clone the repository:
 
 git clone https://github.com/YourUsername/YourSudokuSolverRepo.git
@@ -54,7 +54,7 @@ python sudoku_backtracking.py
 
 (Replace sudoku_backtracking.py with the actual name of your script.)
 
-💡 How the Backtracking Algorithm Works
+##💡 How the Backtracking Algorithm Works
 The core of this solver is the backtracking algorithm. Here's a simplified explanation:
 
 Find an Empty Cell: The algorithm starts by searching for the next empty cell (represented by 0).
@@ -71,8 +71,5 @@ Solution Found: If all cells are filled and valid, a solution has been found, an
 
 This process continues until a valid solution is found or all possibilities have been exhausted.
 
-🤝 Contributing
+##🤝 Contributing
 Feel free to fork this repository, open issues, or submit pull requests if you have suggestions for improvements or bug fixes!
-
-📄 License
-This project is open-source and available under the MIT License.
