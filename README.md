@@ -34,18 +34,28 @@ Python 3.13.5
     Example puzzle structure:
 
     example_board = [
+   
         [7,8,0,4,0,0,1,2,0],
+   
         [6,0,0,0,7,5,0,0,9],
+   
         [0,0,0,6,0,1,0,7,8],
+   
         [0,0,7,0,4,0,2,6,0],
+   
         [0,0,1,0,5,0,9,3,0],
+   
         [9,0,4,0,6,0,0,0,5],
+   
         [0,7,0,3,0,0,0,1,2],
+   
         [1,2,0,0,0,7,4,0,0],
+   
         [0,4,9,2,0,6,0,0,7]
+   
    ]
 
-4. **Run the script**:
+5. **Run the script**:
   
    Execute the Python script from your terminal:
 
