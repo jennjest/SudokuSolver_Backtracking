@@ -22,14 +22,12 @@ Python 3.13.5
     git clone https://github.com/jennjest/SudokuSolver_Backtracking.git
 
     cd SudokuSolver_Backtracking
+   
+2. Open the Python file:
+   Locate the main Python script (e.g., sudoku_backtracking.py or similar) in the cloned directory.
 
-(Replace YourUsername/YourSudokuSolverRepo with your actual GitHub path.)
-
-Open the Python file:
-Locate the main Python script (e.g., sudoku_backtracking.py or similar) in the cloned directory.
-
-Modify the puzzle (optional):
-Inside the script, you'll likely find a variable holding the initial Sudoku grid (often represented as a 2D list). You can modify this grid to test different puzzles. Use 0 (or None) to represent empty cells.
+3. Modify the puzzle (optional):
+   Inside the script, you'll likely find a variable holding the initial Sudoku grid (often represented as a 2D list). You can modify this grid to test different puzzles. Use 0 (or None) to represent empty cells.
 
 Example puzzle structure:
 
